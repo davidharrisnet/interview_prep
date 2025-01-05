@@ -15,6 +15,9 @@
       2. Complete
       3. Full
       4. Perfect
+  1. AVL Tree
+     1. [Geeksforgeeks](https://www.geeksforgeeks.org/avl-tree-in-python/)
+     2. [pip pyvltree](https://pypi.org/project/pyvltree/)
   1. Traversal
      1. In-Order
      2. Pre-Order
@@ -22,6 +25,7 @@
   1. Heap
      1. Min-Heap
      2. Max-Heap
+   
   1. Tries
   2. Graphs
      1. Depth-First Search
