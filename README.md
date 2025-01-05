@@ -16,8 +16,8 @@
       3. Full
       4. Perfect
   1. AVL Tree
-     1. [Geeksforgeeks](https://www.geeksforgeeks.org/avl-tree-in-python/)
-     2. [pip pyvltree](https://pypi.org/project/pyvltree/)
+     * [Geeksforgeeks](https://www.geeksforgeeks.org/avl-tree-in-python/)
+     * [pip pyvltree](https://pypi.org/project/pyvltree/)
   1. Traversal
      1. In-Order
      2. Pre-Order
