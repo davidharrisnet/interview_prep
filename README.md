@@ -4,6 +4,7 @@
 ## Site Reliablility Engineering
 ## Data Structures and Algorithms
   [algorithms_in_python](https://github.com/davidharrisnet/algorithms_in_python)
+  [leetcode](https://github.com/davidharrisnet/leetcode)
 1. Trees
    1. Binary Trees
       1. Balanced vs Unbalanced
@@ -22,6 +23,7 @@
      1. Depth-First Search
      2. Breadth-First Search
 ## Essential Math
+[John Krohn](https://github.com/jonkrohn/ML-foundations)
 1. Probability
 2. Statistics
 3. Linear Algebra
